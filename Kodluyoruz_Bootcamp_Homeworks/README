@@ -12,3 +12,14 @@
  ┃ ┣ Cars.java
  ┃ ┣ RentACar.java
  ┃ ┗ Customer.java
+ ┣ Week3/Homework1
+ ┃ ┣ Content
+ ┃ ┃ ┣ Apple.java
+ ┃ ┃ ┣ Fruit.java
+ ┃ ┃ ┣ Melon.java
+ ┃ ┃ ┣ Orange.java
+ ┃ ┃ ┣ Pear.java
+ ┃ ┣ ContentManager
+ ┃ ┃ ┣ AddFruit.java
+ ┃ ┃ ┣ BuyFruit.java
+ ┃ ┣ Main.java
