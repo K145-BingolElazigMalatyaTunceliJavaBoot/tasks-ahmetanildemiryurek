@@ -1,0 +1,14 @@
+┣src
+ ┣ Week1
+ ┃ ┣ ExamResult.java
+ ┃ ┣ RandomNumber.java
+ ┃ ┣ SumNormalNumber.java
+ ┃ ┗ SumPrimeNumber.java
+ ┣ Week2
+ ┃ ┣ TypeOfCars
+ ┃ ┃ ┣ Hatchback.java
+ ┃ ┃ ┣ Sedan.java
+ ┃ ┃ ┗ Suv.java
+ ┃ ┣ Cars.java
+ ┃ ┣ RentACar.java
+ ┃ ┗ Customer.java
